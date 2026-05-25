@@ -6,6 +6,15 @@ Designed with a high-contrast aesthetic and robust multilingual functionality, t
 
 ---
 
+## 🤝 Human-AI Collaboration
+
+This project is a co-authored development between the author (**Alan Li**) and **Google Gemini/AI Studio Build**. 
+
+*   **Human Direction & Curation:** Conceived, scoped, and refined by the user (**Alan Li**)—directing the live GIS integration, selecting the Vancouver Open Data v2.1 endpoints, structuring visual layout priorities, and verifying deployment configurations.
+*   **AI Implementation & Codecraft:** Programmed, optimized, and documented by **Google Gemini**—writing modular React components, binding interactive Leaflet geospatial features, and implementing local fallback registries alongside comprehensive multilingual diction engines.
+
+---
+
 ## 🚀 Key Features
 
 *   **Real-time Open Data Sync:** Direct v2.1 GeoJSON API synchronization from the City of Vancouver's open data catalogue. Automatically detects newly established BIA districts.
