@@ -1,0 +1,6 @@
+{
+  "name": "Vancouver BIA Map",
+  "description": "Interactive map of Vancouver Business Improvement Area (BIA) boundaries with customizable layers, dynamic search, and detailed area insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
